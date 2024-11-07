@@ -1,3 +1,3 @@
 # gTest
 Reoizytorium do wprowadzenia do używania gita.
-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
+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
